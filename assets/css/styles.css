@@ -19,7 +19,7 @@
       -> Copy the color mode (HSL)
   */
 
-  --hue: 218;
+  --hue: 250;
   --first-color: hsl(var(--hue), 69%, 68%);
   --first-color-alt: hsl(var(--hue), 56%, 35%);
   --title-color: hsl(228, 8%, 95%);
@@ -607,7 +607,7 @@ svg {
 }
 
 ::-webkit-scrollbar-thumb{
-  background-color: hsl(228, 8%, 35%);
+  background-color: hsl(258, 100%, 71%);
   border-radius: .5rem;
 }
 
